@@ -12,4 +12,4 @@ package-lock.json
 yarn.lock
 src/styles/reset.css
 src/assets
-src/lib/Doggo.js
+src/lib/doggo.js

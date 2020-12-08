@@ -5,17 +5,15 @@ node_modules
 examples
 notes
 reference
+old
 
 # work environment files
 tags
 Session.vim
+*.code-workspace
 
 # build directory
 dist
-
-# gatsby directories
-.cache
-public
 
 # important stuff to keep private
 src/assets/fonts/font-awesome-pro-5-web

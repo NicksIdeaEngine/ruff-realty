@@ -8,7 +8,7 @@
     ".git/**",
     "node_modules/**"
   ],
-  "ecmaversion": "10",
+  "ecmaversion": "11",
   "plugins": {
     "complete_strings": {},
     "doc_comment": null,
@@ -20,6 +20,7 @@
       "paths": {
         "ast": "src/assets",
         "cmp": "src/components",
+        "lib": "src/lib",
         "pgs": "src/pages",
         "sty": "src/styles",
         "tmp": "src/templates",
@@ -27,7 +28,7 @@
       }
     },
     "webpack": {
-      "configpath": "webpack.config.js --env.development"
+      "configpath": "./webpack.config.js"
     }
   }
 }
