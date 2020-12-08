@@ -1,0 +1,15 @@
+.cache
+.git
+dist
+examples
+node_modules
+notes
+public
+reference
+static
+package.json
+package-lock.json
+yarn.lock
+src/styles/reset.css
+src/assets
+src/lib/Doggo.js
